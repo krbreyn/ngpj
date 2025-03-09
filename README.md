@@ -1,7 +1,7 @@
 Create a new Go project in a single command.
 
 Usage:
-`./ngpj.sh <folder-name> <go-module-name> [-gh public|private]`
+`./ngpj.(sh/fish) <folder-name> <go-module-name> [-gh public|private]`
 
 This will do the following:
 1. Create a new folder with `<folder-name>`.
